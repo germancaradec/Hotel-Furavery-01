@@ -15,7 +15,7 @@ let header = `
         <li class="li"><a class="item" href="habitaciones.html">HABITACIONES</a></li>
         <li class="li"><a class="item" href="gastronomia.html">GASTRONOMIA</a></li>
         <li class="li"><a class="item" href="contacto.html">CONTACTO</a></li>
-        <li class="li"><a class="item" href="listadoCotizaciones.html">LOGIN</a></li>
+        <li class="li"><a class="item" href="listadoCotizaciones.html">ADMIN</a></li>
         
         </li>
     </ul>
